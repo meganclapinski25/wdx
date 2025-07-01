@@ -1,0 +1,17 @@
+# React (client)
+client/node_modules/
+client/build/
+client/.env
+
+# Flask (server)
+server/venv/
+server/__pycache__/
+server/*.pyc
+server/.env
+
+# System
+.DS_Store
+*.log
+
+# VS Code
+.vscode/
